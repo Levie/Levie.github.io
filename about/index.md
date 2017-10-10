@@ -15,10 +15,12 @@ comments: false
 </center>
 
 ## About Me
-Career started here.. I've obtained these grades. I make games, sometimes I program. Occasionally, there are students, they ask a lot of questions. I do my best. Possibly not selling myself in the best light.
+This is where it all begins. I make games, sometimes I program, sometimes I dabble in writing and other times I love getting behind a bit of design work.
+When I'm not doing that, my spare time resides in cultural activities and social gatherings every now and then
 
-Studied at UWE, on the Games Technology degree. Went on to study my masters at Goldsmiths. Passionate gamer, it's the games that drive me and not the coding.
+Studying at UWE, on the Games Technology degree. Before that I was part of a tech team in web design and development. 
+I grew up with games and it was the best part of my childhood when I wasn't so driven by doing every sport I possibly could.
 
-So, this might be a good place to list a shorthand CV, or even provide a download to one. Plenty of plugins do this. Some even generate HTML into a PDF preformatted CV. Alternatively, you may want to link to linkedin instead.
+For any further information you'd like to hear or discover, please click the link below in order to do so.
       
-[Contact Me](https://github.com/TaylanTatli/Moon){: .btn}
+[Contact Me](https://github.com/Levie){: .btn}
