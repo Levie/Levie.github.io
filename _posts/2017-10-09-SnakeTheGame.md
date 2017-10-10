@@ -13,7 +13,7 @@ tag:
 comments: true
 published: true
 ---
-**Snake** is one of the most classic and popular casual games in the world, this site is a humble tribute to this amazing game.
+**Snake** is one of the most classic and popular casual games in the world.
 Choose the difficulty level, and move the snake with the arrow keys while avoiding the walls and the Snake's body.
 
 #### About the game
