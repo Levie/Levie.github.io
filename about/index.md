@@ -9,7 +9,7 @@ comments: false
 <center>
 <figure>
         <img src="../assets/img/profile_1.jpg" class="img-circle animated rotateIn">
-		<figcaption>Da Boss!</figcaption>
+		<figcaption>Louis 'Lou Kai' Ojuroye</figcaption>
 </figure>
 
 </center>
