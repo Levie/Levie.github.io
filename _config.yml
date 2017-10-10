@@ -1,11 +1,11 @@
 # Site
-title:              "A student"
+title:              "An Aspiring Video Game Developer"
 bio:                'My Portfolio'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "A Simple Portfolio Page, showcasing some work."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile_1.jpg'
-background:         'assets/img/doom_backdrop.jpg'
+background:         'assets/vid/Mass_Space.wmv'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://Levie.github.io
