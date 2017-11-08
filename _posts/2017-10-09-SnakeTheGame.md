@@ -38,9 +38,17 @@ The game was played on a microcomputer called TRS-80 and received a warm welcome
 
 #### So how would we go about coding it?
 ~~~ C++
-Psuedo Code
-Psuedo Code
-Psuedo Code
+#Create Window
+#Load Graphics
+#Initialize Variables
+#Create 2D Array 		// Playing Field
+#Create Head 			// Player Controlled
+#Create Tail 			// Follows the Player
+#Create Food			// Spawns randomly around the map and respawns again upon collision with player
+
+
+#Reset Game Variables
+
 ~~~
 
 
